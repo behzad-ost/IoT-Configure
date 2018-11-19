@@ -1,0 +1,5 @@
+#define TOKEN "8e9350f1-0bb5-4f58-9c85-d76cbdfc0de4"
+#define ADMIN_USERNAME "admin"
+#define ADMIN_PASSWORD  "admin"
+#define INPUT_FILE  "/home/behzad/example.conf"
+#define OUTPUT_FILE  "/home/behzad/commited.conf"
